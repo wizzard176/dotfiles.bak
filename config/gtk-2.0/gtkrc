@@ -1,0 +1,6 @@
+gtk-theme-name="Colloid-Dark"
+gtk-icon-theme-name="Papirus"
+gtk-button-images=1
+gtk-menu-images=1
+gtk-enable-event-sounds=0
+gtk-enable-input-feedback-sounds=0
